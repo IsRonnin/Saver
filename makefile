@@ -28,4 +28,4 @@ $(TARGET): $(OBJS)
 
 # Очистка сгенерированных файлов
 clean:
-	rm -f $(OBJS) $(TARGET)
+	rm -f $(OBJS)
